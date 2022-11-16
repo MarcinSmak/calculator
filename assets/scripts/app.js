@@ -6,10 +6,7 @@ function add(num1, num2) {
     return result;
 }
 
-currentResult = add(1,8);
-
-add(1, 3);
-add(1, 4);
+currentResult = add(1, 8);
 
 outputResult(currentResult, calculationDescrition);
 
