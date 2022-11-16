@@ -6,7 +6,8 @@ function add(num1, num2) {
     return result;
 }
 
-currentResult = add(1, 8);
+currentResult = add(1, 2);
 
-outputResult(currentResult, calculationDescrition);
+let calculationDescription = 'Decription';
 
+outputResult(currentResult, calculationDescription);
